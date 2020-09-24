@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🎓 &nbsp; Final year Computer Science Engineering graduate in Mumbai University.
+- 🎓 &nbsp; Final year Computer Science Engineering graduate from Mumbai University.
 - 💼 &nbsp; Full Stack Intern at Skynox Tech.
 
 <h3>🛠 Tech Stack</h3>
