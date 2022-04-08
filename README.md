@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🎓 &nbsp; Final year Computer Science Engineering graduate from Mumbai University.
+- 🎓 &nbsp; Software developer at an startup working on product related to workplace platform and security.
 
 
 <h3>🛠 Tech Stack</h3>
