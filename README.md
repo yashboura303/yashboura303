@@ -9,8 +9,7 @@
 
 - 💻 &nbsp; Python | Javascript | HTML/CSS
 - 🌐 &nbsp; Django | Node.js | ReactJS | Bootstrap
-- 🛢 &nbsp; MySQL | MongoDB
-- 🔧 &nbsp; Git | Heroku
+
 
 <br/>
 
